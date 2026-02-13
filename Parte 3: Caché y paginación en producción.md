@@ -613,6 +613,6 @@ La mayoría de sistemas reales se benefician de un **enfoque híbrido**: REST pa
 **Esto concluye nuestra serie de 3 artículos sobre optimización de APIs. ¿Qué técnicas has aplicado? ¿Qué resultados obtuviste? Comparte en los comentarios.**
 
 **Lee la serie completa:**
-- [Parte 1: REST vs GraphQL - Comparativa de arquitecturas]([link1](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md))
-- [Parte 2: El problema N+1 y sus soluciones]([link2](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md))
-- [Parte 3: Caché y paginación en producción]([link3](https://github.com/simone-rosso-dev/articles/blob/main/Parte%203:%20Cach%C3%A9%20y%20paginaci%C3%B3n%20en%20producci%C3%B3n.md))
+- [Parte 1: REST vs GraphQL - Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)
+- [Parte 2: El problema N+1 y sus soluciones](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md)
+- [Parte 3: Caché y paginación en producción](https://github.com/simone-rosso-dev/articles/blob/main/Parte%203:%20Cach%C3%A9%20y%20paginaci%C3%B3n%20en%20producci%C3%B3n.md)
