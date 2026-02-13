@@ -289,10 +289,13 @@ La pregunta no es "¿cuál es mejor?", sino "¿cuál se adapta mejor a mi caso d
 
 ### Próximos artículos de la serie
 
-En el **Artículo 2**, profundizaremos en el problema N+1, el cuello de botella más común en ambas arquitecturas, y cómo resolverlo en REST y GraphQL con ejemplos prácticos de código.
-
-En el **Artículo 3**, exploraremos estrategias avanzadas de caché, paginación y rate limiting específicas para cada arquitectura.
+En el **Artículo 2**, profundizaremos en el problema N+1, el cuello de botella más común en ambas arquitecturas, y cómo resolverlo en REST y GraphQL con ejemplos prácticos de código.  **[Parte 1: ¿Cuál es más rápido? Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)**
 
 ---
 
-**¿Qué arquitectura usas en tu proyecto? ¿Has experimentado problemas de rendimiento? Comparte tu experiencia en los comentarios.**
+## Índice de la serie
+
+1. **[Introducción: REST vs GraphQL en sistemas reales](https://github.com/simone-rosso-dev/articles/blob/main/Introducci%C3%B3n%3A%20REST%20vs%20GraphQL%20en%20sistemas%20reales.md)**
+2. **[Parte 1: ¿Cuál es más rápido? Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)**
+3. **[Parte 2: El problema N+1 y sus soluciones prácticas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md)**
+4. **[Parte 3: Caché y paginación en producción](https://github.com/simone-rosso-dev/articles/blob/main/Parte%203:%20Cach%C3%A9%20y%20paginaci%C3%B3n%20en%20producci%C3%B3n.md)**
