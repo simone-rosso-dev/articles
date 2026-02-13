@@ -28,7 +28,7 @@ En esta serie de artículos, vamos a explorar los tres problemas de rendimiento 
 
 REST puede aprovechar toda la infraestructura de caché HTTP (CDNs, proxies, navegadores), pero sufre de over-fetching: devuelves datos que el cliente no necesita. GraphQL elimina el over-fetching, pero implementar caché efectivo es más complejo.
 
-**[Artículo 1: REST vs GraphQL - ¿Cuál es más rápido?]**
+**[Artículo 1: REST vs GraphQL - ¿Cuál es más rápido?](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)**
 
 En este artículo comparamos las arquitecturas desde cero, analizando:
 - Cómo cada una maneja el acceso a datos
@@ -42,7 +42,7 @@ En este artículo comparamos las arquitecturas desde cero, analizando:
 
 El problema N+1 es la causa número uno de APIs lentas. Aparece cuando cargas una lista de elementos y luego haces queries adicionales por cada elemento. En desarrollo con 5 registros de prueba no lo notas. En producción con 1,000 usuarios simultáneos, tu base de datos colapsa.
 
-**[Artículo 2: El problema N+1 y sus soluciones prácticas]**
+**[Artículo 2: El problema N+1 y sus soluciones prácticas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md)**
 
 En este artículo profundizamos en:
 - Qué es el N+1 y por qué es tan común
@@ -56,7 +56,7 @@ En este artículo profundizamos en:
 
 Estas no son optimizaciones "nice to have", son **requisitos para producción**. Sin ellas, tu API no escala más allá de tráfico trivial.
 
-**[Artículo 3: Estrategias de caché y paginación en producción]**
+**[Artículo 3: Estrategias de caché y paginación en producción](https://github.com/simone-rosso-dev/articles/blob/main/Parte%203:%20Cach%C3%A9%20y%20paginaci%C3%B3n%20en%20producci%C3%B3n.md)**
 
 En este artículo exploramos:
 - Caché HTTP vs caché de aplicación
