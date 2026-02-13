@@ -289,7 +289,7 @@ La pregunta no es "¿cuál es mejor?", sino "¿cuál se adapta mejor a mi caso d
 
 ### Próximos artículos de la serie
 
-En el **Artículo 2**, profundizaremos en el problema N+1, el cuello de botella más común en ambas arquitecturas, y cómo resolverlo en REST y GraphQL con ejemplos prácticos de código.  **[Parte 1: ¿Cuál es más rápido? Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)**
+En el **Artículo 2**, profundizaremos en el problema N+1, el cuello de botella más común en ambas arquitecturas, y cómo resolverlo en REST y GraphQL con ejemplos prácticos de código. **[Parte 2: El problema N+1 y sus soluciones prácticas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md)**
 
 ---
 
