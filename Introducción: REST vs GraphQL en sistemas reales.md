@@ -100,15 +100,13 @@ Si estás empezando con APIs, algunos conceptos pueden ser avanzados. Te recomen
 
 El rendimiento no es un problema que "arreglas después". Es una consecuencia directa de decisiones de diseño que tomas al principio. Esta serie te da las herramientas para tomar esas decisiones correctamente desde el día uno.
 
-**Próximo artículo:** [REST vs GraphQL: ¿Cuál es más rápido? Comparativa de arquitecturas](#)
+**Próximo artículo:** [REST vs GraphQL: ¿Cuál es más rápido? Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)
 
 ---
 
-**¿Qué problemas de rendimiento has enfrentado en tus APIs? ¿REST o GraphQL? Cuéntanos en los comentarios y continuemos la conversación.**
-
 ## Índice de la serie
 
-1. **[Introducción: REST vs GraphQL en sistemas reales]**
+1. **[Introducción: REST vs GraphQL en sistemas reales](https://github.com/simone-rosso-dev/articles/blob/main/Introducci%C3%B3n%3A%20REST%20vs%20GraphQL%20en%20sistemas%20reales.md)**
 2. **[Parte 1: ¿Cuál es más rápido? Comparativa de arquitecturas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%201:%20REST%20vs%20GraphQL%20-%20Comparativa%20de%20arquitecturas.md)**
 3. **[Parte 2: El problema N+1 y sus soluciones prácticas](https://github.com/simone-rosso-dev/articles/blob/main/Parte%202%3A%20El%20problema%20N%2B1%20y%20sus%20soluciones.md)**
 4. **[Parte 3: Caché y paginación en producción](https://github.com/simone-rosso-dev/articles/blob/main/Parte%203:%20Cach%C3%A9%20y%20paginaci%C3%B3n%20en%20producci%C3%B3n.md)**
